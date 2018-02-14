@@ -1,0 +1,16 @@
+Botões de atalho:
+Navegar no Menu - Setas para baixo e para cima
+Entrar na opção do menu - espaço
+Botão de ação - espaço
+Informar vida do jogador - V
+Informar a defesa do jogador - B
+Informar XP e Nivel do jogador - N
+Informar o poder de ataque do jogador - M
+Informar os Itens que o jogador possui (inventario) - I
+
+
+
+Menu de Ataque:
+Atacar - Z
+Usar Item - X
+Fugir - C

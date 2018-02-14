@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 174ef5c6ac9a27d4e9d418fb0203e2d2
+timeCreated: 1506808785
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dark Crystal Script
+  fontNames:
+  - Dark Crystal Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
